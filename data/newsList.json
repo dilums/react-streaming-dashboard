@@ -1,0 +1,30 @@
+[
+    {
+      "key": 0,
+      "title": "Tips 4 Watching",
+      "subTitle": "Available via desktop app, mobile apps, set-top",
+      "image": "react-streaming-dashboard-news-item-1.jpg",
+      "tags": [
+        {
+          "text": "kids",
+          "color": "#d94b87"
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "title": "Game Betting - Live",
+      "subTitle": "Dungeons & Dragons On...",
+      "image": "react-streaming-dashboard-news-item-2.jpg",
+      "tags": [
+        {
+          "text": "game",
+          "color": "#6647bf"
+        },
+        {
+          "text": "multi",
+          "color": "#4696b9"
+        }
+      ]
+    }
+  ]

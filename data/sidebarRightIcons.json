@@ -1,0 +1,18 @@
+[
+    {
+      "background": "#4a8cda",
+      "icon": "react-streaming-dashboard-fortnite.svg"
+    },
+    {
+      "background": "#de4f5f",
+      "icon": "react-streaming-dashboard-reddit.svg"
+    },
+    {
+      "background": "#d99b52",
+      "icon": "react-streaming-dashboard-snapchat.svg"
+    },
+    {
+      "background": "#6348b1",
+      "icon": "react-streaming-dashboard-twitch.svg"
+    }
+  ]

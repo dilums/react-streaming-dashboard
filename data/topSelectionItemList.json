@@ -1,0 +1,45 @@
+[
+    {
+      "key": "1",
+      "title": "Pop Off Q&A",
+      "subTitle": "Dungeons & Dragons On...",
+      "image": "react-streaming-dashboard-selection-item-image-1.jpg",
+      "avatar": "react-streaming-dashboard-selection-item-avatar-1.jpg",
+      "tags": [
+        {
+          "text": "kids",
+          "color": "#d94b87"
+        },
+        {
+          "text": "tweens",
+          "color": "#eb8052"
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "title": "Squishy Muffinz",
+      "subTitle": "Squads on NEW MAP",
+      "image": "react-streaming-dashboard-selection-item-image-2.jpg",
+      "avatar": "react-streaming-dashboard-selection-item-avatar-2.jpg",
+      "tags": [
+        {
+          "text": "teens",
+          "color": "#70b944"
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "title": "Enter a title",
+      "subTitle": "Pop Off Q&A",
+      "image": "react-streaming-dashboard-selection-item-image-3.jpg",
+      "avatar": "react-streaming-dashboard-selection-item-avatar-3.jpg",
+      "tags": [
+        {
+          "text": "game",
+          "color": "#6647bf"
+        }
+      ]
+    }
+  ]
